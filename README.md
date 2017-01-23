@@ -1,6 +1,6 @@
-# hello-world-respository
+# hello-world-respositor
 Hello World Program
 
-print ("Hello World")
+print ("Hello World!")
 
 print ('How are you?')
